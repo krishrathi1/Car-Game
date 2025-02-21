@@ -14,7 +14,7 @@ A simple **car racing game** built using **HTML, CSS, and JavaScript**. Control 
 - **Avoid obstacles** to keep playing.  
 - Each obstacle avoided **increases your score**. 
 - If you hit an obstacle, **game over!**   
- 
+  
 ---
 
 ### **📂 Project Structure**  
