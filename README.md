@@ -8,7 +8,7 @@ A simple **car racing game** built using **HTML, CSS, and JavaScript**. Control 
 
 
 ---
-
+ 
 ### **🕹️ How to Play**  
 - Use **left** and **right arrow keys** to move the car.   
 - **Avoid obstacles** to keep playing.  
