@@ -21,7 +21,7 @@ A simple **car racing game** built using **HTML, CSS, and JavaScript**. Control 
 ### **📂 Project Structure**  
 ```
 /Car-Game
-│── index.html     # Main game structure  
+│── index.html     # Main game structure   
 │── style.css      # Game styling  
 │── script.js      # Game logic  
 │── README.md      # Project description  
