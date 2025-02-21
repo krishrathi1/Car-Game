@@ -6,7 +6,6 @@ Here’s a **GitHub repository description** for your **Car Racing Game**:
 
 A simple **car racing game** built using **HTML, CSS, and JavaScript**. Control your car, avoid obstacles, and score points in this fun and addictive game!  
 
-🔗 **Live Demo:** [https://krishrathi1.github.io/Car-Game/](https://krishrathi1.github.io/Car-Game/)  
 
 ---
 
