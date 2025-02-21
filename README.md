@@ -11,7 +11,7 @@ A simple **car racing game** built using **HTML, CSS, and JavaScript**. Control 
 - Use **left** and **right arrow keys** to move the car.    
 - **Avoid obstacles** to keep playing.  
 - Each obstacle avoided **increases your score**. 
-- If you hit an obstacle, **game over!**   
+- If you hit an obstacle, **game over!**    
   
 ---
 
