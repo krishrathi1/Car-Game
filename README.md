@@ -1,6 +1,4 @@
-Here’s a **GitHub repository description** for your **Car Racing Game**:  
 
----
   
 ## **🚗 Car Racing Game**  
 
